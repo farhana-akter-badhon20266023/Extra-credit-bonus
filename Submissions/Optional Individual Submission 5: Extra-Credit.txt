@@ -1,0 +1,99 @@
+Through out this Fall-2020 semester, I have studied and completed courses about following these topics along with class for Distributed Computing System (CSE 707)
+
+Course Name: Cloud Computing Basics (Cloud 101) on Course Era
+Summary: Throughout this course, I have learned the basics of Cloud computing: what it is, what it supports, and how it is delivered. This course has covered storage 
+services, Cloud economics, levels of managed infrastructure, and Azure services. I have explored different deployment models of Cloud computing, as well as several 
+hosting scenarios. Last but not least, I have also learnt about some of the cloud platforms and also come to know about the future of cloud computing.
+
+https://www.coursera.org/learn/cloud-computing-basics/home/week/1
+Course Era Credentials: 
+Email: farhanatasmi99@gmail.com
+Password: Mscincse009#
+
+
+1.
+https://youtu.be/ajjOEltiZm4
+
+Summary: I saw this tutorial about distributed computing, distributed software systems, and related concepts.
+
+In this lesson, I studied about:
+* What is a Distributed System
+* Distributed Systems Components
+* Characteristics of Distributed Systems
+* Distributed Computing Concepts
+* Types of Distributed Systems
+* Why Building a Distributed System
+* Issues of Distributed systems
+* Advantages and limitations of Distributed Systems
+
+2.
+https://youtu.be/zC9cnh8rJd0
+
+In this 'Spark Tutorial' I have comprehensively studied all the major concepts of Spark such as Spark RDD, Dataframes, Spark SQL and Spark Streaming.
+With the increasing size of data that generates every second, it is important to analyze this data to get important business insights in lesser time.
+
+This is where Apache Spark comes in to process real-time big data. So, keeping the importance of Spark in mind, we have come up with this full course.
+
+3.
+https://youtu.be/xDpvyu0w0C8
+
+This Edureka Hadoop vs Spark video helped me to understand the differences between Hadoop and Spark. I have learned about here - 
+Introduction to Hadoop, Introduction to Apache Spark, Spark vs Hadoop - Performance, Ease of Use Cost, Data Processing, Fault tolerance Security, Hadoop 
+Use-cases, Spark Use-cases
+
+4.
+https://youtu.be/3Arj5zlUPG4
+
+This Azure tutorial video helped me to understand why cloud computing is needed, what is cloud computing, what is Azure, Azure services and uses of Azure. 
+Cloud infrastructure is set to dominate the IT space. Microsoft Azure is growing faster than any other cloud services provider with an incredible 154% YOY 
+growth rate. The data is impressive and quite convincing as to why you could consider learning cloud technologies like MS Azure. The opportunities for Microsoft 
+Azure certified aspirants have drastically multiplied in recent years. Cloud technologies like Azure are evolving at a rapid clip, outpacing the average rate of 
+growth in the IT sector as a whole.
+
+5.
+https://youtu.be/v-F3YLd6oMw
+
+This is an intro to shell scripting with Bash. I have learned from here - what shell scripting is and create a cheat sheet with things like variables, conditionals,
+loops, functions, etc. We will also do things like rename multiple files.
+
+6.
+https://youtu.be/oxuRxtrO2Ag
+
+This video is a crash course to help new users get started with BASH with some basic commands.
+
+7.
+https://youtu.be/o8NPllzkFhE
+
+Linus Torvalds transformed technology twice — first with the Linux kernel, which helps power the Internet, and again with Git, the source code management system used 
+by developers worldwide. In a rare interview with TED Curator Chris Anderson, Torvalds discusses with remarkable openness the personality traits that prompted his unique 
+philosophy of work, engineering and life. "I am not a visionary, I'm an engineer," Torvalds says. "I'm perfectly happy with all the people who are walking around and just
+staring at the clouds ... but I'm looking at the ground, and I want to fix the pothole that's right in front of me before I fall in."
+
+8.
+https://youtu.be/qLFB376KZPc
+
+In this video I looked at the basics of parallel programming with OpenMP!
+
+9.
+https://www.youtube.com/watch?v=49DzPT9HFJM&feature=youtu.be
+
+In this tutorial, I studied about the basics of the Slurm scheduler at the Center for High Performance Computing. It covered about - Accounts and partitions, Job queue, 
+Slurm information, Useful aliases, Running jobs, Acquiring information about jobs.
+
+10.
+https://youtu.be/SbpgCmtwGRg
+I took a look at concept mapping - how to explore the value of concept maps and how you can build your very own in Lucidchart
+
+11.
+BOOK: Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+Developing reliable, scalable distributed systems today is often more black art than science. Building these systems is complicated and, because few formally established 
+patterns are available for designing them, most of these systems end up looking very unique. This practical guide shows you how to use existing software design patterns 
+for designing and building reliable distributed applications.
+
+12.
+BOOK: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 
+I read this book for completing final report on concept map. This book examines the key principles, algorithms, and trade-offs of data systems, using the internals of 
+various popular software packages and frameworks as examples. Tools at your disposal are evolving and demands on applications are increasing, but the principles behind 
+them remain the same. I learnt how to determine what kind of tool is appropriate for which purpose, and how certain tools can be combined to form the foundation of a 
+good application architecture. I also learnt how to develop an intuition for what your systems are doing, so that you’re better able to track down any problems that arise.
+
